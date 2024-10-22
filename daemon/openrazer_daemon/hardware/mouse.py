@@ -1867,5 +1867,3 @@ class RazerDeathAdderV3HyperSpeedWireless(RazerDeathAdderV3HyperSpeedWired):
     """
 
     USB_PID = 0x00C5
-
-    POLL_RATES = [125, 500, 1000]
